@@ -1,4 +1,1 @@
-# Facial Recognition Attendence GUI
-Modified by Augmented Startups & Geeky Bee
-October 2020
-Full Course - https://augmentedstartups.info/yolov4release
+Project Scope ¬ Provides facility for the automated attendance of students. ¬ Uses live face recognition to recognize each individual and mark their attendance automatically. ¬ Utilizes video and image processing to provide inputs to the system. ¬ Facility of marking manual attendance.
